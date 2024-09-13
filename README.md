@@ -2,7 +2,7 @@
 
 ## Project Setup
 
-### Frontend
+### Frontend setup
 1. Navigate to the frontend directory:
     ```bash
     cd asmt
@@ -16,7 +16,7 @@
     npm start
     ```
 
-### Backend
+### Backend setup
 1. Navigate to the backend directory:
     ```bash
     
